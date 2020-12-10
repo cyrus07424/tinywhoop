@@ -15,10 +15,6 @@
 4Ch con DualRate
 :5 Point
 5 Puntos
-:5+1
-5+1
-:6+1
-6+1
 :6Ch Airplane
 Avión 6Ch
 :6Ch Helicopter
@@ -35,22 +31,18 @@ ALAB
 ALAB Inv
 :AIL Mix
 ALAB Mez
-:AUX4
-AUX4
-:AUX5
-AUX5
 :About Deviation
 Acerca de Deviation
 :Airplane
 Avión
 :Altitude
 Altitud
+:Backlight
+Iluminación
 :Batt alarm
 Alarma bat
 :Battery too low,\ncan't save!
 Batería demasiado baja,\nno se puede grabar!
-:Bind
-Bind
 :Binding %s...\nPress ENT to stop
 Emparejando %s\nPulsar ENT para parar
 :Buzz volume
@@ -69,14 +61,10 @@ Cíclico
 Calibración
 :Cancel
 Cancelar
-:Celsius
-Celsius
 :Center PW
 Centro PW
 :Center all \nsticks and knobs\nthen press ENT
 Centrar todos los\nsticks y ruedas \nentonces pulsar ENT
-:Ch
-Ch
 :Chan mode
 Modo canales
 :Change
@@ -101,14 +89,10 @@ Ciclico1
 Ciclico2
 :Cyclic3
 Ciclico3
-:DR
-DR
 :Deadband
 Zona muerta
 :Default
 Defecto
-:Delta PW
-Delta PW
 :Deviation FW version:
 Versión del FW Deviation:
 :Dimmer target
@@ -131,12 +115,6 @@ Expo. %d
 Entrar
 :Exit
 Salir
-:Expo&DR
-Expo&DR
-:Fahren
-Fahren
-:Fail-safe
-Fail-safe
 :File
 Archivo
 :Fixed
@@ -149,8 +127,6 @@ Pié
 Tamaño trama
 :GEAR
 TREN
-:GPS
-GPS
 :Generic settings
 Ajustes generales
 :Heli
@@ -205,8 +181,6 @@ Metro
 Valor Medio
 :Min Limit
 Límite Min
-:Min/Max
-Min/Max
 :Mixer
 Mezclas
 :Mixers
@@ -229,22 +203,12 @@ Mezcla
 Neg.
 :New
 Nuevo
-:No Trim
-No Trim
 :None
 Ninguno
-:Normal
-Normal
-:Notch PW
-Notch PW
 :Off
 Apagado
 :Offset
 Desvío
-:Ok
-Ok
-:On
-On
 :Page
 Página
 :Plane
@@ -253,8 +217,6 @@ Avión
 Punto
 :Pos
 Pos.
-:Pos/Neg
-Pos/Neg
 :Prealert intvl
 Intervalo prealerta
 :Prealert time
@@ -271,8 +233,6 @@ Pulsar ENT para activar la unidad USB
 DERECHA_H
 :RIGHT_V
 DERECHA_V
-:RPM
-RPM
 :RUD
 COLA
 :RUD DR
@@ -297,8 +257,6 @@ Seguridad
 Guardar
 :Scale%s
 Escala%s
-:Simple
-Simple
 :Simple 4 Channel
 4Ch. Simple
 :Speed
@@ -313,10 +271,6 @@ Paso
 Posiciones sticks
 :Stick mode
 Modo de vuelo
-:Sticks
-Sticks
-:Subtrim
-Subtrim
 :SwashType
 Plato
 :Switch
@@ -345,12 +299,6 @@ TRIMDO-
 TRIMDV+
 :TRIMRV-
 TRIMDV-
-:TelemRPM
-TelemRPM
-:TelemT
-TelemT
-:TelemV
-TelemV
 :Telemetry
 Telemetría
 :Telemetry config
@@ -359,8 +307,6 @@ Configuración telemetría
 Monitor telemetría
 :Telemetry settings
 Ajustes telemetría
-:Temp
-Temp
 :Temperature
 Temperatura
 :Template..
@@ -385,20 +331,10 @@ Pulsar para desbloquear
 Configuración emisora
 :Transmitter menu
 Menú Emisora
-:Trim
-Trim
-:Trim +
-Trim +
-:Trim -
-Trim -
 :Trim Step
 Trim paso
-:Trims
-Trims
 :Tx power
 Potencia del TX
-:USB
-USB
 :Unknown
 Desconocido
 :Up
@@ -407,12 +343,6 @@ Arriba
 Valor
 :Vibration
 Vibración
-:Virt
-Virt
-:Volt
-Volt
-:Zero/Max
-Zero/Max
 :\n%d seconds left
 \n%d segundos restantes
 :add
@@ -423,12 +353,6 @@ cuentaatras
 no está soportada
 :is turned off
 está apagado
-:max
-max
-:min
-min
-:mult
-mult
 :replace
 sustituir
 :stopwatch

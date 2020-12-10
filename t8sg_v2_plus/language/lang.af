@@ -25,10 +25,6 @@ Aantal Kanale
 5 Punt
 :5 sec
 5 sek
-:5+1
-5+1
-:6+1
-6+1
 :60 sec
 60 sek
 :6Ch Airplane
@@ -41,18 +37,10 @@ Aantal Kanale
 9 Punt
 :ABSVAL
 AbsWrde
-:AIL
-AIL
 :AIL Inv
 AIL Omgekeerd
 :AIL Mix
 AIL Meng
-:AUX2
-AUX2
-:AUX4
-AUX4
-:AUX5
-AUX5
 :About Deviation
 Deviation Info
 :Add
@@ -69,6 +57,8 @@ Almal
 Hoogte
 :Auto
 Outo
+:Backlight
+Skermlig
 :Bad/missing\nprotocol modules!
 Protokol modules\nis sleg of weg!
 :Bar
@@ -77,14 +67,10 @@ Balk
 Balkgrafiek
 :Batt alarm
 Bat Alarm
-:Battery
-Battery
 :Battery too low,\ncan't save!
 Battery pap,kan\nnie stoor nie!
 :Big-box
 Groot boks
-:Bind
-Bind
 :Binding %s...\nPress ENT to stop
 Bind %s...\nDruk ENT om te stop
 :Box
@@ -99,16 +85,10 @@ KOL Inv
 KOL Limiet
 :COL Mix
 KOL Meng
-:CYC
-CYC
 :Calibrate
 Kalibreer
 :Cancel
 Kanselleer
-:Celsius
-Celsius
-:Center PW
-Center PW
 :Center all \nsticks and knobs\nthen press ENT
 Stokke in middel en\nknoppies af\nDruk dan ENT
 :Ch
@@ -143,26 +123,10 @@ Siklies1
 Siklies2
 :Cyclic3
 Siklies3
-:D/R & Exp
-D/R & Exp
-:D/R&Exp -AIL
-D/R&Exp -AIL
-:D/R&Exp -ELE
-D/R&Exp -ELE
-:D/R&Exp -RUD
-D/R&Exp -RUD
-:DR
-DR
-:Datalog
-Datalog
 :Deadband
 Dooieband
-:Default
-Default
 :Delete
 Vee uit
-:Delta PW
-Delta PW
 :Deviation FW version:
 Deviation Sagteware:
 :Dimmer target
@@ -175,30 +139,16 @@ Af
 Wil jy regtig die\npermanente Tydteller %d\nnul maak?
 :Down
 Af
-:ELE
-ELE
-:ELE Inv
-ELE Inv
 :ELE Mix
 ELE Meng
 :EXPO %d
 Expo %d
-:Edit
-Edit
 :Enable
 Aktiveer
 :Enabled
 Geaktiveer
-:Enter
-Enter
-:Exit
-Exit
-:Expo&DR
-Expo&DR
 :Extend
 Bereik
-:FMODE
-FMODE
 :Fades
 Verdof
 :Fahren
@@ -217,10 +167,6 @@ Vliegmode
 Voet
 :Frame Size
 Raam Grootte
-:GEAR
-GEAR
-:GPS
-GPS
 :GPS Alt.
 GPS Hooghte
 :GPS Coords
@@ -233,14 +179,8 @@ GPS Tyd
 Generiese Opstelling
 :Gyro sense
 Gyro Monitor
-:H
-H
-:H-trim
-H-trim
 :HOLD
 HOU
-:Heli
-Heli
 :Heli/Standard GUI
 Heli/Standaard GUI
 :Helicopter
@@ -255,24 +195,16 @@ Hou
 Uur
 :Icon
 Ikoon
-:Idle Up 1
-Idle Up 1
-:Idle Up 2
-Idle Up 2
 :Input
 Inset
 :Inverted
 Omgekeerd
-:L
-L
 :LCD settings
 LCD Opstelling
 :LEFT_H
 LINKS_H
 :LEFT_V
 LINKS_V
-:LIN
-LIN
 :Language
 Taal
 :Latitude
@@ -295,8 +227,6 @@ Lengtegraad
 Verlies
 :Low-Rate
 Lae Tempo
-:M
-M
 :Main menu
 Hoof Menu
 :Main page
@@ -305,16 +235,10 @@ Hoofbladsy
 Hoofbladsy Opstelling
 :Max Limit
 Max limiet
-:Menu
-Menu
-:Meter
-Meter
 :Mid-Rate
 Mid tempo
 :Min Limit
 Min Limiet
-:Min/Max
-Min/Max
 :Minute
 Minuut
 :Mixer
@@ -327,8 +251,6 @@ Mengers
 Modus
 :Mode %d
 Modus %d
-:Model
-Model
 :Model menu
 Model Menu
 :Model name
@@ -343,10 +265,6 @@ Model tipe
 Moment
 :Move sticks and knobs\nto max & min positions\nthen press ENT
 Beweeg stokke en skakelaars na max & min/nDruk dan ENT
-:Mux
-Mux
-:Neg
-Neg
 :New
 Nuwe
 :No
@@ -355,32 +273,20 @@ Nee
 Geen Trim
 :None
 Geen
-:Normal
-Normal
-:Notch PW
-Notch PW
 :Num Channels
 Aantal Kanale
 :Off
 Af
 :Offset
 Afset
-:Ok
-Ok
 :On
 Aan
 :On/Off
 Aan/Af
-:PIT
-PIT
 :PIT Mix
 PIT Meng
-:PPM
-PPM
 :PPM In
 PPM_In
-:PPM%d
-PPM%d
 :PPMIn Cfg (Extend)
 PPM_In Konf.
 :Page
@@ -417,20 +323,10 @@ Krag-Aan Alarm
 REGS_H
 :RIGHT_V
 REGS_V
-:RPM
-RPM
-:RUD
-RUD
-:RUD DR
-RUD DR
 :Rate
 Tempo
 :Re-Init
 Her-ini
-:Reset
-Reset
-:Reset sw
-Reset sw
 :Reverse
 Omkeer
 :Reversed
@@ -465,14 +361,12 @@ Stoor
 Skaal
 :Scale%s
 Skale%s
+:Scanner
+Skandeer
 :Second
 Sekonde
 :Select
 Selekteer
-:Servo
-Servo
-:Set
-Set
 :Set permanent timer
 Stel Permanente Tydhouer
 :Set to
@@ -519,30 +413,6 @@ Skakelaar1
 Skakelaar2
 :Symmetric
 Symmetries
-:THR
-THR
-:TRIMLH+
-TRIMLH+
-:TRIMLH-
-TRIMLH-
-:TRIMLV+
-TRIMLV+
-:TRIMLV-
-TRIMLV-
-:TRIMRH+
-TRIMRH+
-:TRIMRH-
-TRIMRH-
-:TRIMRV+
-TRIMRV+
-:TRIMRV-
-TRIMRV-
-:TelemRPM
-TelemRPM
-:TelemT
-TelemT
-:TelemV
-TelemV
 :Telemetry
 Telemetrie
 :Telemetry config
@@ -551,8 +421,6 @@ Telemetrie Konfigurasie
 Telemetrie Monitor
 :Telemetry settings
 Telemetrie Opstelling
-:Temp
-Temp
 :Temperature
 Temperatuur
 :Template..
@@ -593,44 +461,26 @@ Sender Opstelling
 Sender Menu
 :Travel adjust
 Maks Beweeging
-:Trim
-Trim
-:Trim +
-Trim +
-:Trim -
-Trim -
 :Trim Step
 Trim stap
 :Trimbar
 Trimbalk
-:Trims
-Trims
 :Tx power
 Sendkrag
 :TxPower
 Tx-krag
-:USB
-USB
 :Unknown
 Onbekend
 :Up
 Op
-:V-trim
-V-trim
 :Value
 Waarde
 :Vibration
 Vibrasie
-:Virt
-Virt
-:Volt
-Volt
 :Welcome
 Welkom
 :Yes
 Ja
-:Zero/Max
-Zero/Max
 :\n%d seconds left
 \n%d sekondes links
 :add
@@ -645,10 +495,6 @@ Vertraging
 word nie ondersteun nie
 :is turned off
 is afgeskakel
-:max
-max
-:min
-min
 :mult
 *
 :permanent
@@ -659,5 +505,3 @@ vervang
 Stop-prop
 :stopwatch
 Stophorlosie
-:vTX MHz
-vTX MHz

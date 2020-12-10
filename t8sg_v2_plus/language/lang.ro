@@ -1,36 +1,22 @@
-Română
+﻿Română
 : is %d%%,\nsafe value = %d%%
  = %d%%,\nvaloare sigur=%d%%\n
 :# Channels
 Canale
 :%d bytes left
 %d octeți liberi
-:1 sec
-1 sec
 :1-to-1
 1 la 1
-:10 sec
-10 sec
 :11 Point
 11 puncte
 :13 Point
 13 puncte
 :3 Point
 3 puncte
-:30 sec
-30 sec
 :4Ch w/ Dual-Rates
 4CH + D/R
 :5 Point
 5 puncte
-:5 sec
-5 sec
-:5+1
-5+1
-:6+1
-6+1
-:60 sec
-60 sec
 :6Ch Airplane
 6CH avion
 :6Ch Helicopter
@@ -41,18 +27,8 @@ Canale
 9 puncte
 :ABSVAL
 VAL ABS
-:AIL
-AIL
 :AIL Inv
 AIL Inv.
-:AIL Mix
-AIL Mix
-:AUX2
-AUX2
-:AUX4
-AUX4
-:AUX5
-AUX5
 :About Deviation
 Despre Deviation
 :Add
@@ -67,8 +43,8 @@ Int. alarmă
 Toate
 :Altitude
 Altitudine
-:Auto
-Auto
+:Backlight
+Iluminare
 :Bad/missing\nprotocol modules!
 Module protocol\nlipsă sau corupte!
 :Bar
@@ -81,12 +57,8 @@ Alarmă bat.
 Nivel baterie scăzut,\nnu pot salva!
 :Big-box
 Box mare
-:Bind
-Bind
 :Binding %s...\nPress ENT to stop
 Conectare %s...\nApăsați ENT pentru a opri
-:Box
-Box
 :Buzz volume
 Volum
 :COL
@@ -95,10 +67,6 @@ Colectiv
 Colectiv inv.
 :COL Limit
 COL Limită
-:COL Mix
-COL Mix
-:CYC
-CYC
 :Calibrate
 Calibrare
 :Cancel
@@ -109,8 +77,6 @@ C°
 Centru PW
 :Center all \nsticks and knobs\nthen press ENT
 Centrați toate stickuri-le\nși potențiometrele\nși apăsați ENT
-:Ch
-Ch
 :Ch%d
 Can%d
 :Chan mode
@@ -121,14 +87,8 @@ Modifică
 Canal
 :Channel monitor
 Monitor canale
-:Complex
-Complex
 :Configure
 Configurează
-:Contrast
-Contrast
-:Control
-Control
 :Copy To
 Copiază
 :Copy To...
@@ -143,24 +103,14 @@ Ciclic2
 Ciclic3
 :D/R & Exp
 DR și Expo
-:D/R&Exp -AIL
-D/R&Exp -AIL
 :D/R&Exp -ELE
 D/R&Exp - ELE
-:D/R&Exp -RUD
-D/R&Exp -RUD
-:DR
-DR
 :Datalog
 Log date
 :Deadband
 Bandă moartă
-:Default
-Default
 :Delete
 Șterge
-:Delta PW
-Delta PW
 :Deviation FW version:
 Deviation fw. versiune:
 :Dimmer target
@@ -173,12 +123,8 @@ Jos
 Sigur doriți să\resetați\ntimerul permanent %d?
 :Down
 Jos
-:ELE
-ELE
 :ELE Inv
 ELE inv.
-:ELE Mix
-ELE Mix
 :EXPO %d
 EXP. %d
 :Edit
@@ -187,22 +133,14 @@ Editează
 Activează
 :Enabled
 Activat
-:Enter
-Enter
-:Exit
-Exit
 :Expo&DR
 Expo+DR
 :Extend
 Extinde
-:FMODE
-FMODE
 :Fades
 Atenuări
 :Fahren
 F°
-:Fail-safe
-Fail-safe
 :File
 Fișier
 :Fixed
@@ -215,10 +153,6 @@ Mod zbor
 Picior
 :Frame Size
 Dim. pachet
-:GEAR
-GEAR
-:GPS
-GPS
 :GPS Alt.
 Alt. GPS
 :GPS Coords
@@ -231,12 +165,8 @@ Oră GPS
 Setări generale
 :Gyro sense
 Sens giro
-:H
-H
 :H-trim
 H-Trim
-:HOLD
-HOLD
 :Heli
 Elic.
 :Heli/Standard GUI
@@ -251,12 +181,6 @@ Poziție fixă
 Blocări
 :Hour
 Oră
-:Icon
-Icon
-:Idle Up 1
-Idle Up 1
-:Idle Up 2
-Idle Up 2
 :Input
 Intrare
 :Inverted
@@ -269,8 +193,6 @@ Setări ecran
 STÂNGA_H
 :LEFT_V
 STÂNGA_V
-:LIN
-LIN
 :Language
 Limbă
 :Latitude
@@ -293,8 +215,6 @@ Longitudine
 Pierderi
 :Low-Rate
 Pos2
-:M
-M
 :Main menu
 Meniu principal
 :Main page
@@ -311,8 +231,6 @@ Metru
 Pos1
 :Min Limit
 Limită min
-:Min/Max
-Min/Max
 :Minute
 Minut
 :Mixer
@@ -325,8 +243,6 @@ Mixere
 Mod
 :Mode %d
 Mod %d
-:Model
-Model
 :Model menu
 Meniu model
 :Model name
@@ -341,8 +257,6 @@ Tip model
 Momentan
 :Move sticks and knobs\nto max & min positions\nthen press ENT
 Mută stick-urile și potențiometrele\nla MAX și MIN\ndupă care apasă ENT
-:Mux
-Mux
 :Neg
 Neg.
 :New
@@ -353,32 +267,20 @@ Nu
 nimic
 :None
 nimic
-:Normal
-Normal
 :Notch PW
 Depres. PW
 :Num Channels
 Num Canale
 :Off
 Oprit
-:Offset
-Offset
-:Ok
-Ok
 :On
 Pornit
 :On/Off
 Pornit/Oprit
-:PIT
-PIT
 :PIT Mix
 Mix PIT
-:PPM
-PPM
 :PPM In
 Intrare PPM
-:PPM%d
-PPM%d
 :PPMIn Cfg (Extend)
 Config PPM (Extinde)
 :Page
@@ -415,18 +317,10 @@ Ton pornire
 DREAPTA_V
 :RIGHT_V
 DREAPTA_F
-:RPM
-RPM
-:RUD
-RUD
-:RUD DR
-RUD DR
 :Rate
 Rată
 :Re-Init
 Re-init
-:Reset
-Reset
 :Reset sw
 Sw reset
 :Reverse
@@ -447,12 +341,12 @@ Salv.
 Scara
 :Scale%s
 Scară%s
+:Scanner
+Scaner
 :Second
 Secundă
 :Select
 Selectează
-:Servo
-Servo
 :Set
 Setează
 :Set permanent timer
@@ -465,28 +359,18 @@ Simplu
 Simplu 4 canale
 :Small-box
 Box mic
-:Smooth
-Smooth
 :Speed
 Viteză
 :Src
 Sursă
-:Standard
-Standard
-:Start
-Start
 :Step
 Pas
-:Stick
-Stick
 :Stick input
 Intrări
 :Stick mode
 Mod
 :Sticks
 Stick-uri
-:Subtrim
-Subtrim
 :Swash
 Platou
 :SwashType
@@ -501,8 +385,6 @@ Act1
 Act2
 :Symmetric
 Simetric.
-:THR
-THR
 :TRIMLH+
 TRIMSH+
 :TRIMLH-
@@ -519,12 +401,6 @@ TRIMDH-
 TRIMDV+
 :TRIMRV-
 TRIMDV-
-:TelemRPM
-TelemRPM
-:TelemT
-TelemT
-:TelemV
-TelemV
 :Telemetry
 Telemetrie
 :Telemetry config
@@ -533,26 +409,16 @@ Telemetrie
 Monitor telemetrie
 :Telemetry settings
 Setări telemetrie
-:Temp
-Temp
 :Temperature
 Temperatură
 :Template..
 Șablon...
-:Thr hold
-Thr hold
 :Throttle curves
 Curba putere
-:Throttle hold
-Throttle hold
 :Time
 Timp
-:Timer
-Timer
 :Timer settings
 Setări crono
-:Timer%d
-Timer%d
 :Timers
 Timere
 :Timeup intvl
@@ -575,12 +441,6 @@ Configurare radio
 Meniu radio
 :Travel adjust
 Ajustare curse
-:Trim
-Trim
-:Trim +
-Trim +
-:Trim -
-Trim -
 :Trim Step
 Pas trim
 :Trimbar
@@ -589,8 +449,6 @@ Bară trim
 Trim-uri
 :Tx power
 Putere tx
-:USB
-USB
 :Unknown
 Necunoscut
 :Up
@@ -603,39 +461,21 @@ Valoare
 Vibrație
 :Virt
 Virt.
-:Volt
-Volt
 :Welcome
 Bine ați venit
 :Yes
 Da
-:Zero/Max
-Zero/Max
 :\n%d seconds left
 \n%d secunde stânga
 :add
 aditiv
-:cntdn-prop
-cntdn-prop
-:countdown
-countdown
-:delay
-delay
 :is not supported
 nu este suportat(ă)
 :is turned off
 este oprit(ă)
-:max
-max
-:min
-min
 :mult
 mult.
-:permanent
-permanent
 :replace
 înloc.
-:stop-prop
-stop-prop
 :stopwatch
 crono

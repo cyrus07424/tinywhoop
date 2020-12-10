@@ -15,10 +15,6 @@ Csatornák
 11 pont
 :13 Point
 13 pont
-:1Mbps
-1Mbps
-:250kbps
-250kbps
 :3 Point
 3 pont
 :3 Pos
@@ -31,10 +27,6 @@ Csatornák
 5 pont
 :5 sec
 5 mp
-:5+1
-5+1
-:6+1
-6+1
 :60 sec
 60 mp
 :6Ch Airplane
@@ -47,22 +39,10 @@ Csatornák
 9 pont
 :ABSVAL
 ABSZ.É.
-:ACKPKT
-ACKPKT
-:AD2GAIN
-AD2GAIN
-:AIL
-AIL
 :AIL Inv
 Csűrés inv.
 :AIL Mix
 Csűrés mix
-:AUX2
-AUX2
-:AUX4
-AUX4
-:AUX5
-AUX5
 :About Deviation
 Deviation névjegye
 :Add
@@ -97,8 +77,8 @@ Magasság
 Audió beállítások
 :Audio volume
 Audió hangerő
-:Auto
-Auto
+:Backlight
+Fényerő
 :Bad/missing\nprotocol modules!
 Hibás/hiányzó\nprotokoll modulok!
 :Bar
@@ -133,14 +113,8 @@ Koll. inv.
 Koll. limit
 :COL Mix
 Koll. mix
-:CPPM
-CPPM
 :CRTP Mode
 CRTP mód
-:CRTPLOG
-CRTPLOG
-:CYC
-CYC
 :Calibrate
 Kalibrálás
 :Calibration done.\n \nPress ENT.
@@ -193,16 +167,10 @@ D/R&Expó -AIL
 D/R&Expó -ELE
 :D/R&Exp -RUD
 D/R&Expó -RUD
-:DIS
-DIS
-:DR
-DR
 :Datalog
 Adat napló
 :Deadband
 Holtsáv
-:Default
-Default
 :Delete
 Törlés
 :Delta PW
@@ -223,8 +191,6 @@ Valóban nullázni\nakarja az üzemidő\nidőzítő %d-t?
 Le
 :DynTrim
 Din. trim
-:ELE
-ELE
 :ELE Inv
 Magas. inv.
 :ELE Mix
@@ -237,10 +203,6 @@ Szerkeszt
 Engedélyez
 :Enabled
 Engedélyezett
-:Enter
-Enter
-:Exit
-Exit
 :Expert
 Haladó
 :Expo&DR
@@ -251,8 +213,6 @@ Kiterj.
 Külső hang\njelenleg nem\nelérhető
 :F.Log filter
 Napló szűrés
-:FMODE
-FMODE
 :Fades
 Eltűnés
 :Fahren
@@ -283,10 +243,6 @@ Frekv. durva
 Frekv. finom
 :Fuel
 Üzemany.
-:GEAR
-GEAR
-:GPS
-GPS
 :GPS Alt.
 GPS magas.
 :GPS Coords
@@ -301,16 +257,10 @@ GPS idő
 Zöld
 :Gyro sense
 Giró
-:H
-H
 :H-trim
 Függ. trim
-:HOLD
-HOLD
 :Heading
 Irány
-:Heli
-Heli
 :Heli/Standard GUI
 Heli/Szokásos felület
 :Helicopter
@@ -335,22 +285,14 @@ Alapjárat 2
 Bemenet
 :Inverted
 Inverz
-:L
-L
 :LCD settings
 LCD beállítások
 :LEFT_H
 BAL_V
 :LEFT_V
 BAL_F
-:LIN
-LIN
-:LQI
-LQI
 :LQI output
 LQI kimenet
-:LRSSI
-LRSSI
 :Language
 Nyelv
 :Latitude
@@ -373,8 +315,6 @@ Hosszúság
 Vesztés
 :Low-Rate
 Alacsony
-:M
-M
 :Main menu
 Főmenü
 :Main page
@@ -391,16 +331,12 @@ Méter
 Közepes
 :Min Limit
 Min korlát
-:Min/Max
-Min/Max
 :MinCell
 Min. cella
 :Minute
 Perc
 :Missing Modules:\n
 Hiányzó modulok:\n
-:Mixer
-Mixer
 :Mixer    Reorder:Hold R+
 Mixer  Sorrend:Hosszú R+
 :Mixer GUI
@@ -429,10 +365,6 @@ Modell típus
 Pillanat k.
 :Move sticks and knobs\nto max & min positions\nthen press ENT
 Mozgassa a botokat \nés a tekerőket\nmin-tól max-ig,\nmajd nyomjon ENT-t
-:Multi
-Multi
-:Multirotor
-Multirotor
 :Mux
 Művelet
 :Neg
@@ -457,26 +389,16 @@ Csat. száma
 Ki
 :Offset
 Eltolás
-:Ok
-Ok
 :On
 Be
 :On/Off
 Ki/Be
-:OrangeRx
-OrangeRx
 :Outputs
 Kimentek
-:PIT
-PIT
 :PIT Mix
 Koll. mix
-:PPM
-PPM
 :PPM In
 PPM be
-:PPM%d
-PPM%d
 :PPMIn Cfg (Extend)
 PPM be konf. (Kiterj.)
 :Page
@@ -521,16 +443,8 @@ JOBB_V
 JOBB_F
 :RPM
 Ford.
-:RPYT
-RPYT
-:RSSI
-RSSI
 :RSSIChan
 RSSI cs.
-:RUD
-RUD
-:RUD DR
-RUD DR
 :Range Test
 Hatótáv teszt
 :Rate
@@ -551,26 +465,8 @@ Inverz
 Mégsem
 :Right
 Jobb
-:RxV
-RxV
 :S.PORT Out
 S.PORT ki
-:SW A
-SW A
-:SW B
-SW B
-:SW C
-SW C
-:SW D
-SW D
-:SW E
-SW E
-:SW F
-SW F
-:SW G
-SW G
-:SW H
-SW H
 :Safe Val
 Bizt. érték
 :Safety
@@ -583,6 +479,8 @@ Mentés
 Skála
 :Scale%s
 Skála%s
+:Scanner
+Szkenner
 :Second
 Másodp.
 :Select
@@ -611,8 +509,6 @@ Sebesség
 Forrás
 :Standard
 Szokásos
-:Start
-Start
 :Step
 Lépés
 :Stick
@@ -623,8 +519,6 @@ Bemenetek
 Mód
 :Sticks
 Botkormány
-:Subtrim
-Subtrim
 :Swash
 Imbolygó
 :SwashType
@@ -639,8 +533,6 @@ Kapcs.1
 Kapcs.2
 :Symmetric
 Szimmetr.
-:THR
-THR
 :TRIMLH+
 TRIM_BV+
 :TRIMLH-
@@ -661,8 +553,6 @@ TRIM_JF-
 Telem. %d
 :TelemRPM
 TelemFord
-:TelemRSSI
-TelemRSSI
 :TelemT
 TelemHőm
 :TelemV
@@ -719,12 +609,6 @@ Távirányító konfig.
 Távirányító menü
 :Travel adjust
 Szervóút állítás
-:Trim
-Trim
-:Trim +
-Trim +
-:Trim -
-Trim -
 :Trim Step
 Trim lépés
 :Trimbar
@@ -735,8 +619,6 @@ Trim-ek
 Kimenő telj.
 :TxPower
 Tx telj.
-:USB
-USB
 :USE A.ACK
 Auto ACK
 :Unknown
@@ -745,8 +627,6 @@ Ismeretlen
 Fel
 :V-trim
 Vsz. trim
-:VSI
-VSI
 :Value
 Érték
 :Vibration
@@ -783,10 +663,6 @@ le
 nem támogatott
 :is turned off
 ki van kapcsolva
-:max
-max
-:min
-min
 :mult
 szoroz
 :permanent
@@ -801,7 +677,5 @@ Gázf. stop.
 Stopper
 :up
 fel
-:vTX MHz
-vTX MHz
 :voice
 hang

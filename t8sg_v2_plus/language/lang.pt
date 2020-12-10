@@ -3,22 +3,30 @@
  = %d%%, \nvalor seguro  = %d%%
 :# Channels
 # Canais
+:%d bytes left
+%d bytes restantes
+:1 sec
+1 seg
 :1-to-1
-1 a 1
+1 -to-1
+:10 sec
+10 seg
 :11 Point
 11 Pontos
 :13 Point
 13 Pontos
 :3 Point
 3 Pontos
+:30 sec
+30 seg
 :4Ch w/ Dual-Rates
 4Ch c/Dual-Rate
 :5 Point
 5 Pontos
-:5+1
-5+1
-:6+1
-6+1
+:5 sec
+5 seg
+:60 sec
+60 seg
 :6Ch Airplane
 Aeroplano 6Ch
 :6Ch Helicopter
@@ -27,60 +35,104 @@ Helicóptero 6Ch
 7 Pontos
 :9 Point
 9 Pontos
-:ABSVAL
-ABSVAL
-:AIL
-AIL
 :AIL Inv
 ALAB Inv
 :AIL Mix
 ALAB Mix
-:AUX4
-AUX4
-:AUX5
-AUX5
 :About Deviation
 Sobre o Deviation
+:Add
+Adiciona
+:Address
+Endereço
+:Advanced
+Avancado
+:AirSpd
+VelAr
 :Airplane
 Aeroplano
-:Altitude
-Altitude
+:Alarm intvl
+Intervalo Alarme
+:Alert intvl
+Intervalo de Alerta
+:All
+Todos
+:Analog Aux
+Aux Analógico
+:Antenna
+Antena
+:Audio settings
+Definição Audio
+:Audio volume
+Volume audio
+:Bad/missing\nprotocol modules!
+Módulo de protocolo\nem falta ou danificado
+:Bar
+Barras
+:Bargraph
+Gráfico Barras
 :Batt alarm
 Alarme bat
+:Battery
+Bateria
 :Battery too low,\ncan't save!
 Bateria baixa, não\nserá possivel gravar!
-:Bind
-Bind
+:Big-box
+ig-box
 :Binding %s...\nPress ENT to stop
 Bindando %s\nTecle ENT p/parar
+:Blue-A
+Azul-A
 :Buzz volume
 Volume buzzer
 :COL
 PASSO
-:COL Inv
-PASSO Inv
 :COL Limit
-PASSO limite	
+COL limitet
 :COL Mix
 PASSO Mix
+:CRC invalid
+CRC inválido
+:CRTP Mode
+Modo CRTP
 :CYC
-Cíclico
+Cíclo
 :Calibrate
 Calibrar
+:Calibration done.\n \nPress ENT.
+Calibração terminada\nPressione ENT.
 :Cancel
 Cancelar
-:Celsius
-Celsius
+:Capacity
+Capacidade
 :Center PW
 Centralizar PW
 :Center all \nsticks and knobs\nthen press ENT
-Centralizar todos\nsticks e knobs\nsó então teclar ENT
-:Ch
-Ch
+Centralizar todos\nsticks e knobs\nsó então pressione ENT
+:Ch%d
+Ch %d
+:Chan 1
+Canal 1
+:Chan 2
+Canal 2
+:Chan 3
+Canal 3
+:Chan 4
+Canal 4
+:Chan 5
+Canal 5
+:Chan 6
+Canal 6
+:Chan 7
+Canal 7
+:Chan 8
+Canal 8
 :Chan mode
 Modo canal
 :Change
 Alterar
+:Channel
+Canal
 :Channel monitor
 Monitor canais
 :Complex
@@ -89,10 +141,16 @@ Complexo
 Configurar
 :Contrast
 Contraste
+:Control
+Controle
 :Copy To
-Copiar para
+Copia para
 :Copy To...
-Copiar...
+Copiar para...
+:Country
+País
+:Curr
+Corr
 :Curve
 Curva
 :Cyclic1
@@ -101,68 +159,102 @@ Ciclico1
 Ciclico2
 :Cyclic3
 Ciclico3
-:DR
-DR
 :Deadband
 ZonaMorta
-:Default
-Default
-:Delta PW
-Delta PW
+:Delete
+Deleta
 :Deviation FW version:
 Versão FW Deviation:
 :Dimmer target
 Limite Dimmer
 :Dimmer time
 Tempo dimmer
+:Disabled
+Desativado
 :Dn
 Aba
+:Do you really want\nto reset the\n permanent timer %d?
+Você deseja mesmo\nzerar o tempo\ndefinitivamente %d?
 :Down
 Desce
-:ELE
-ELE
-:ELE Inv
-ELE Inv
-:ELE Mix
-ELE Mix
 :EXPO %d
 Expo. %d
-:Enter
-Entrar
+:Edit
+Edita
+:Enable
+Habilitado
+:Enabled
+Ativado
 :Exit
 Sair
-:Expo&DR
-Expo&DR
-:Fahren
-Fahren
-:Fail-safe
-Fail-safe
+:Expert
+Avançado
+:Extend
+Estendido
+:External voice\ncurrently not\navailable
+Voz externa \nnão está \ndisponível
+:F.Log filter
+Filtro F.Log
+:FMODE
+MODOF
+:FMode
+ModoF
+:Failsafe
+Falso
 :File
 Arquivo
 :Fixed
 Fixo
 :Fixed ID
 ID Fixo
+:Flight Mode
+Modo de Voo
+:Fly mode
+Modo de voo
 :Foot
 Pé
+:Format
+Formato
 :Frame Size
 Taman. frame
-:GEAR
-GEAR
-:GPS
-GPS
+:Freq-Coarse
+Freq-media
+:Freq-Fine
+Freq-fina
+:Fuel
+Combustível
+:GPS Alt.
+Alt GPS
+:GPS Coords
+Coords GPS
+:GPS Speed
+Vel GPS
+:GPS Time
+Tempo GPS
 :Generic settings
 Configs. gerais
-:Heli
-Heli
+:Green
+ Verde
+:Gyro sense
+Sensor giroscopio
+:Heading
+Início
 :Helicopter
 Helicóptero
 :High-Rate
 Valor Max.
+:HighSpeed
+AltaVeloci
+:Hold position
+Posição fixa
+:Hour
+Hora
 :Icon
 Icone
 :Input
 Entrada
+:Intvl Scan
+Intervalo escaner
 :Inverted
 Invertido
 :LCD settings
@@ -171,10 +263,10 @@ Config. LCD
 ESQUERDA_H
 :LEFT_V
 ESQUERDA_V
+:LQI output
+Saída LQI
 :Language
 Lingua
-:Latitude
-Latitude
 :Left
 Esquerda
 :Length
@@ -182,11 +274,9 @@ Longitude
 :Linked
 Lincado
 :Load
-Ler...
+Ler
 :Load...
 Ler...
-:Longitude
-Longitude
 :Low-Rate
 Taxa baixa
 :Main menu
@@ -197,62 +287,90 @@ Menu principal
 Personaliza menu
 :Max Limit
 Límite max
-:Menu
-Menu
+:Measuring packet intervals...
+Medindo o intervalo dos pacotes
 :Meter
 Metro
 :Mid-Rate
 Valor Médio
 :Min Limit
 Limite Min
-:Min/Max
-Min/Max
-:Mixer
-Mixer
-:Mixers
-Mixers
+:Minute
+Minuto
+:Missing Modules:\n
+Módulos Ausentes:\n
+:Mixer    Reorder:Hold R+
+Mixer Reorder:Hold R+
+:Mixer output
+Saída do mixer
+:Mode
+Modo
+:Mode %d
+Modo %d
+:Model
+Modelo
 :Model menu
 Menu do modelo
 :Model name
 Nome modelo
+:Model needs reset\nfor standard mixer
+Modelo precisa de reset\npara o mixer padrão
 :Model setup
 Configura modelo
 :Model type
 Tipo modelo
+:Momentary
+Momentaneo
 :Move sticks and knobs\nto max & min positions\nthen press ENT
-Mova sticks e knobs\npara as posições max e min\ne tecle ENT
-:Mux
-Mux
-:Neg
-Neg
+Mova sticks e knobs\npara as posições max e min\ne pressione ENT
+:Multi
+lti
 :New
 Novo
+:No
+Não
 :No Trim
 Sem Trim
+:No range test possible.
+Não é possível realizar o teste de alcance
 :None
 Nenhum
-:Normal
-Normal
-:Notch PW
-Notch PW
+:Num Channels
+Numero de Canais
 :Off
 Desl
-:Offset
-Offset
-:Ok
-Ok
 :On
 Lig
+:On/Off
+Liga/Desliga
+:OrangeRx
+OrangeRX
+:Outputs
+Saídas
+:PPM In
+Enrada PPM
+:PPM%d
+PPM %d
+:PPMIn Cfg (Extend)
+Config. PPMin (ampliado)
 :Page
 Página
+:Period (ms)
+Período (ms)
+:Pitch curves
+Curvas do Pitch
 :Plane
 Aeroplano
 :Point
 Ponto
-:Pos
-Pos
-:Pos/Neg
-Pos/Neg
+:Polarity
+Polaridade
+:Position %d
+Posição 1%d
+:Power
+LIGA
+:Power reduced to
+Potencia reduzida para 
 :Prealert intvl
 Interv. inicial
 :Prealert time
@@ -263,46 +381,112 @@ Tecle ENT para alterar
 Tecle ENT para copiar para
 :Press ENT to load
 Tecle ENT para ler
+:Press ENT to start test.
+Tecle ENT para iniciar o teste
+:Press ENT to stop test.
+Tecle ENT para parar o teste
 :Press ENT to turn \nUSB drive
 Tecle ENT p/ativar USB
+:PwrDn alert
+Alerta PwrDn
+:PwrOn alarm
+Alarme PowOn
+:RF Mode
+Modo RF
+:RFMode
+ModoRF
 :RIGHT_H
 DIREITA_H
 :RIGHT_V
 DIREITA_V
-:RPM
-RPM
-:RUD
-RUD
-:RUD DR
-RUD DR
+:RSSIChan
+CanalRSSI
+:RX Id
+id RX
+:Range Test
+Teste de Alcance
+:Rate
+Taxa
 :Re-Init
 Reconecta
-:Reset
-Reset
+:Recording packets...
+Gravando os pacotes...
+:Reset sw
+Ch de reset
+:Retries
+Retentativas
 :Reverse
 Inverter
 :Reversed
-Invertido
+Reverso
 :Revert
 Reverter
 :Right
 Direita
+:Rx PWM out
+Saída Rx PWM
+:Rx Telem
+Telem Rx
+:S.PORT Out
+Saída S.PORT
+:SW A
+CH A
+:SW B
+CH B
+:SW C
+CH C
+:SW D
+CH D
+:SW E
+CH E
+:SW F
+CH F
+:SW G
+CH G
+:SW H
+CH H
 :Safe Val
 Valor Seguro
 :Safety
 Seguro
+:SatCount
+SatConta
 :Save
-Save
+Salva
+:Scale
+cala
 :Scale%s
 Escala%s
+:Scanning channels and length...
+Escaneando canais e comprimento...
+:Scrambled
+Alterados
+:Second
+Segundo
+:Select
+Selecione
+:Servo Hz
+Servo HZ
+:Set
+Setar
+:Set permanent timer
+Seta tempo permanente
+:Set protocol to XN297Dump
+Seta protocolo como XN297Dump
+:Set to
+Setar
 :Simple
 Simples
 :Simple 4 Channel
 4Ch. Simples
+:Smooth
+Suaviza
 :Speed
 Velocidade
 :Src
 Origem
+:Standard
+Padrão
 :Start
 Inicio
 :Step
@@ -311,44 +495,20 @@ Passo
 Posição dos sticks
 :Stick mode
 Modo de voo
-:Sticks
-Sticks
-:Subtrim
-Subtrim
 :SwashType
 Tipo de Swash
 :Switch
 Chave
+:Switch assignment
+Atribuição de switch
 :Switch1
 Chave1
 :Switch2
 Chave2
 :Symmetric
 Simétrico
-:THR
-THR
-:TRIMLH+
-TRIMSO+
-:TRIMLH-
-TRIMSO-
-:TRIMLV+
-TRIMSV+
-:TRIMLV-
-TRIMSV-
-:TRIMRH+
-TRIMDO+
-:TRIMRH-
-TRIMDO-
-:TRIMRV+
-TRIMDV+
-:TRIMRV-
-TRIMDV-
-:TelemRPM
-TelemRPM
-:TelemT
-TelemT
-:TelemV
-TelemV
+:Telem %d
+Telem 1%d
 :Telemetry
 Telemetria
 :Telemetry config
@@ -357,77 +517,109 @@ Conf. telemetria
 Monitor telemetria
 :Telemetry settings
 Ajustes telemetria
-:Temp
-Temp
 :Temperature
 Temperatura
-:Template..
-Template..
+:Thr hold
+Travar Thr
+:Throttle curves
+Curvas do Throttle
+:Throttle hold
+Trava throttle
 :Time
 Hora
-:Timer
-Timer
+:Timer %d
+Timer 1%d
 :Timer settings
 Config. Timer
-:Timer%d
-Timer%d
 :Timers
 Temporizadores
 :Timeup intvl
 Duração
+:Toggle
+Alterna
 :Touch to Lock
-Tocar para bloquear
+Toque para bloquear
 :Touch to Unlock
-Tocar para desbloquear
+Toque para desbloquear
+:Trainer Cfg (Channel)
+Config. Treino(canal)
+:Trainer Cfg (Stick)
+Config. Treino(Stick)
+:Trainer Sw
+Ch Treino
 :Transmitter config
 Config. do rádio
 :Transmitter menu
 Menu do rádio
-:Trim
-Trim
-:Trim +
-Trim +
-:Trim -
-Trim -
+:Travel adjust
+Ajuste de percurso
 :Trim Step
 Passo Trim
-:Trims
-Trims
+:Trimbar
+Barra de trim
 :Tx power
 Potência
-:USB
-USB
+:TxPower
+PotênciaTx
+:USE A.ACK
+USAR A.ACK
 :Unknown
 Desconhecido
 :Up
-Para Cima
+Sobe
+:Valid CRC found!
+CRC válido
 :Value
 Valor
 :Vibration
 Vibrar
-:Virt
-Virt
-:Volt
-Volt
-:Zero/Max
-Zero/Max
+:Voice config
+Config de voz
+:Welcome
+Bem Vindo
+:Yes
+Sim
 :\n%d seconds left
 \n%d segs restantes
 :add
 adiciona
+:cntdn-prop
+Desliga-helices
 :countdown
 regressivo
+:down
+desce
+:from
+de
 :is not supported
 não é suportado
 :is turned off
 desligado
-:max
-max
-:min
-min
-:mult
-mult
+:permanent
+permanente
 :replace
 substituir
+:rx Quality
+Qualidade rx
+:rx SNR
+SNRrx
+:rxQual
+Qualrx
+:stop-prop
+parar-helices
 :stopwatch
 cronometro
+:tx Quality
+Qualidade tx
+:tx SNR
+SNR tx
+:txQual
+Qualtxl
+:txRSSI
+RSSItx
+:up
+sobe
+:vTX MHz
+VTX MHZ
+:voice
+voz

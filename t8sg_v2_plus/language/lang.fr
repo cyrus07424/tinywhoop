@@ -17,10 +17,6 @@ Nbr canaux
 4ch et DR
 :5 Point
 5 Pts
-:5+1
-5+1
-:6+1
-6+1
 :6Ch Airplane
 6ch Avion
 :6Ch Helicopter
@@ -31,16 +27,10 @@ Nbr canaux
 9 Pts
 :ABSVAL
 ValAbs
-:AIL
-AIL
 :AIL Inv
 Sens AIL
 :AIL Mix
 Mix. AIL
-:AUX4
-AUX4
-:AUX5
-AUX5
 :About Deviation
 A propos...
 :Add
@@ -53,8 +43,8 @@ Avion
 Tempo alarme
 :All
 Tous
-:Altitude
-Altitude
+:Backlight
+Luminosité
 :Bad/missing\nprotocol modules!
 Module de protocole\nabsent ou défaillant!
 :Batt alarm
@@ -79,8 +69,6 @@ Sens PAS
 Limite PAS
 :COL Mix
 Mix. PAS
-:CYC
-CYC
 :Calibrate
 Calibrer
 :Cancel
@@ -91,8 +79,6 @@ Annuler
 Imp. Neutre
 :Center all \nsticks and knobs\nthen press ENT
 Centrer tous les sticks\net potentiomètres AUX,\n puis presser ENT
-:Ch
-Ch
 :Chan mode
 Mode canaux
 :Change
@@ -121,14 +107,10 @@ Cyclique1
 Cyclique2
 :Cyclic3
 Cyclique3
-:D/R & Exp
-D/R & Exp
 :D/R&Exp -ELE
 D/R&Exp -PROF
 :D/R&Exp -RUD
 D/R&Exp -DERIVE
-:DR
-DR
 :Datalog
 Journal de données
 :Deadband
@@ -139,8 +121,6 @@ Défaut
 Efface
 :Delta PW
 Delta Imp.
-:Deviation FW version:
-Deviation FW version:
 :Dimmer target
 Lum. veille
 :Dimmer time
@@ -167,12 +147,8 @@ Etat
 Entrer
 :Exit
 Sortie
-:Expo&DR
-Expo&DR
 :Extend
 Etendu
-:FMODE
-FMODE
 :Fahren
 °F
 :Fail-safe
@@ -191,16 +167,12 @@ Pied
 Larg. Signal
 :GEAR
 TRAIN
-:GPS
-GPS
 :Generic settings
 Réglages
 :Gyro sense
 Gain gyro
 :HOLD
 Maintien
-:Heli
-Heli
 :Heli/Standard GUI
 Heli/Interface Std.
 :Helicopter
@@ -229,8 +201,6 @@ GAUCHE_H
 GAUCHE_V
 :Language
 Langue
-:Latitude
-Latitude
 :Left
 Gauche
 :Length
@@ -241,8 +211,6 @@ Lié
 Charger
 :Load...
 Charger...
-:Longitude
-Longitude
 :Loss
 Perte
 :Low-Rate
@@ -255,24 +223,16 @@ Ecran d'accueil
 Conf. écran accueil
 :Max Limit
 Limite Max
-:Menu
-Menu
 :Meter
 Mètre
 :Mid-Rate
 Déb. Med
 :Min Limit
 Limite Min
-:Min/Max
-Min/Max
-:Mixer
-Mixer
 :Mixer GUI
 Réglages
 :Mixers
 Nbr mixers
-:Mode %d
-Mode %d
 :Model
 Modèle
 :Model menu
@@ -299,8 +259,6 @@ Nouveau
 Pas de Trim
 :None
 Néant
-:Normal
-Normal
 :Notch PW
 Imp. Fin
 :Num Channels
@@ -309,8 +267,6 @@ Nombre canaux
 Arrêt
 :Offset
 Décalage
-:Ok
-Ok
 :On
 Marche
 :On/Off
@@ -323,14 +279,10 @@ Mix. PAS
 Entrée PPM
 :PPMIn Cfg (Extend)
 Cfg PPMIn (Etendu) 
-:Page
-Page
 :Pitch curves
 Courbes de pas
 :Plane
 Avion
-:Point
-Point
 :Pos
 Pos.
 :Pos/Neg
@@ -397,8 +349,6 @@ Entrer
 Entrer chrono permanent
 :Set to
 Entrer
-:Simple
-Simple
 :Simple 4 Channel
 4Ch. Simple
 :Small-box
@@ -409,8 +359,6 @@ Lissage
 Vitesse
 :Src
 Source
-:Standard
-Standard
 :Start
 Durée
 :Step
@@ -423,8 +371,6 @@ Entrées  sticks/aux.
 Mode
 :Sticks
 Manches
-:Subtrim
-Subtrim
 :Swash
 Plateau cycl.
 :SwashType
@@ -513,22 +459,12 @@ Config. Emetteur
 Menu Emetteur
 :Travel adjust
 Course servos
-:Trim
-Trim
-:Trim +
-Trim +
-:Trim -
-Trim -
 :Trim Step
 Finesse
 :Trimbar
 Barre de trim
-:Trims
-Trims
 :Tx power
 Puiss. TX
-:USB
-USB
 :Unknown
 Inconnu
 :Up
@@ -537,10 +473,6 @@ Haut
 Valeur
 :Vibration
 Vibreur
-:Virt
-Virt
-:Volt
-Volt
 :Welcome
 Bienvenue
 :Yes
@@ -561,14 +493,8 @@ Retard
 Non supporté
 :is turned off
 éteint
-:max
-max
-:min
-min
 :mult
 multiplier
-:permanent
-permanent
 :replace
 remplacer
 :stop-prop

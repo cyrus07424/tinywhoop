@@ -25,10 +25,6 @@ Kanäle
 5 Punkt
 :5 sec
 5 Sek.
-:5+1
-5+1
-:6+1
-6+1
 :60 sec
 60 Sek.
 :6Ch Airplane
@@ -47,12 +43,6 @@ QR
 QR Inv
 :AIL Mix
 QR Mix
-:AUX2
-AUX2
-:AUX4
-AUX4
-:AUX5
-AUX5
 :About Deviation
 über Deviation
 :Add
@@ -67,8 +57,8 @@ Alarm-Intrvl
 Alle
 :Altitude
 Höhe
-:Auto
-Auto
+:Backlight
+Helligkeit
 :Bad/missing\nprotocol modules!
 Falsches/fehlen-\ndes Protokollmodul!
 :Bar
@@ -87,26 +77,16 @@ Box groß
 Binden
 :Binding %s...\nPress ENT to stop
 Binden %s...\nENT zum Stoppen
-:Box
-Box
 :Buzz volume
 Lautstärke
-:COL
-COL
-:COL Inv
-COL Inv
-:COL Limit
-COL Limit
-:COL Mix
-COL Mix
 :CYC
 TAUM
 :Calibrate
 Kalibrier.
+:Calibration done.\n \nPress ENT.
+Kalibration fertig.\n \nDrücke ENT.
 :Cancel
 Abbr.
-:Celsius
-Celsius
 :Center PW
 Mitte PW
 :Center all \nsticks and knobs\nthen press ENT
@@ -143,16 +123,12 @@ Zykl1
 Zykl2
 :Cyclic3
 Zykl3
-:D/R & Exp
-D/R & Exp
 :D/R&Exp -AIL
 D/R&Exp -QR
 :D/R&Exp -ELE
 D/R&Exp -HR
 :D/R&Exp -RUD
 D/R&Exp -SR
-:DR
-DR
 :Datalog
 Datenprotokoll
 :Deadband
@@ -161,16 +137,12 @@ Totzone
 Standard
 :Delete
 Lösche
-:Delta PW
-Delta PW
 :Deviation FW version:
 Deviation FW Version:
 :Dimmer target
 Dimmer Ziel
 :Dimmer time
 Dimmzeit
-:Dn
-Dn
 :Do you really want\nto reset the\n permanent timer %d?
 Soll der permanente\nZeitgeber %d zurück-\ngesetzt werden?
 :Down
@@ -181,8 +153,6 @@ HR
 HR Inv
 :ELE Mix
 HR Mix
-:EXPO %d
-EXPO %d
 :Edit
 Bearbeiten
 :Enable
@@ -193,16 +163,10 @@ Aktiv
 Eingabe
 :Exit
 EXT
-:Expo&DR
-Expo&DR
 :Extend
 Erweitert
-:FMODE
-FMODE
-:Fahren
-Fahren
-:Fail-safe
-Fail-safe
+:External voice\ncurrently not\navailable
+Externe Sprachausgabe\naktuell\nnicht verfügbar 
 :File
 Modell
 :Fixed
@@ -217,8 +181,6 @@ Fuß
 Paketgröße
 :GEAR
 FAHRW
-:GPS
-GPS
 :GPS Alt.
 GPS Höhe
 :GPS Coords
@@ -231,8 +193,6 @@ GPS Zeit
 Allgemeine Einstell.
 :Gyro sense
 Kreiselempf.
-:Heli
-Heli
 :Heli/Standard GUI
 Heli, Std. Mischer
 :Helicopter
@@ -285,30 +245,16 @@ Hauptmenü
 Startseite
 :Main page config
 Startseitenkonfig.
-:Max Limit
-Max Limit
 :Menu
 Menü
-:Meter
-Meter
 :Mid-Rate
 Mittel
-:Min Limit
-Min Limit
-:Min/Max
-Min/Max
-:Minute
-Minute
 :Mixer
 Mischer
 :Mixer GUI
 Mischer GUI
 :Mixers
 Mischer
-:Mode
-Mode
-:Mode %d
-Mode %d
 :Model
 Modell
 :Model menu
@@ -337,18 +283,12 @@ Nein
 Kein Trim
 :None
 keine
-:Normal
-Normal
-:Notch PW
-Notch PW
 :Num Channels
 Anz. Kanäle
 :Off
 Aus
 :Offset
 Versatz
-:Ok
-Ok
 :On
 Ein
 :On/Off
@@ -369,6 +309,8 @@ Punkt
 +
 :Pos/Neg
 +/-
+:Power reduced to
+Leistung reduziert auf
 :Prealert intvl
 Warnung alle
 :Prealert time
@@ -379,6 +321,10 @@ Drücke ENT zum Ändern
 Drücke ENT zum Kopier.
 :Press ENT to load
 Drücke ENT zum Laden
+:Press ENT to start test.
+Drücke ENT zum Starten
+:Press ENT to stop test.
+Drücke ENT zum Stoppen
 :Press ENT to turn \nUSB drive
 ENT schaltet \ndas USB Laufwerk
 :PwrDn alert
@@ -441,8 +387,6 @@ Glätten
 Geschwind.
 :Src
 Quelle
-:Start
-Start
 :Step
 Stufe
 :Stick
@@ -471,28 +415,8 @@ Schalter2
 Symmetrie
 :THR
 GAS
-:TRIMLH+
-TRIMLH+
-:TRIMLH-
-TRIMLH-
-:TRIMLV+
-TRIMLV+
-:TRIMLV-
-TRIMLV-
-:TRIMRH+
-TRIMRH+
-:TRIMRH-
-TRIMRH-
-:TRIMRV+
-TRIMRV+
-:TRIMRV-
-TRIMRV-
 :TelemRPM
 TelemUPM
-:TelemT
-TelemT
-:TelemV
-TelemV
 :Telemetry
 Telemetrie
 :Telemetry config
@@ -501,8 +425,6 @@ Telemetriekonfig.
 Telemetrie-Anzeige
 :Telemetry settings
 Telemetrieeinstellung.
-:Temp
-Temp
 :Temperature
 Temperatur
 :Template..
@@ -545,10 +467,6 @@ Sender Menü
 Wegbegrenzung
 :Trim
 Trimmung
-:Trim +
-Trim +
-:Trim -
-Trim -
 :Trim Step
 Schritt
 :Trimbar
@@ -557,20 +475,14 @@ Trimmbalken
 Trimm-Einstellungen
 :Tx power
 Sendeleist.
-:USB
-USB
 :Unknown
 Unbekannt
 :Up
 Hoch
 :Value
 Wert
-:Vibration
-Vibration
-:Virt
-Virt
-:Volt
-Volt
+:Voice config
+Sprachausgabe konf.
 :Welcome
 Willkommen
 :Yes
@@ -585,14 +497,12 @@ addiere
 Countdown
 :delay
 verzög.
+:from
+von
 :is not supported
 wird nicht unterstützt
 :is turned off
 ist ausgeschaltet
-:max
-max
-:min
-min
 :mult
 mult.
 :permanent

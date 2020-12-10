@@ -25,10 +25,6 @@
 5 точек
 :5 sec
 5 сек
-:5+1
-5+1
-:6+1
-6+1
 :60 sec
 60 сек
 :6Ch Airplane
@@ -47,12 +43,6 @@
 Элер Инв
 :AIL Mix
 Элер Микш
-:AUX2
-AUX2
-:AUX4
-AUX4
-:AUX5
-AUX5
 :About Deviation
 О программе
 :Add
@@ -67,8 +57,14 @@ AUX5
 Все
 :Altitude
 Высота
+:Audio settings
+Настройки звука
+:Audio volume
+Громкость зв.
 :Auto
 Авто
+:Backlight
+Подсветка
 :Bad/missing\nprotocol modules!
 Ошибочные/отсутствующие\nмодули протоколов!
 :Bar
@@ -90,7 +86,7 @@ AUX5
 :Box
 Бокс
 :Buzz volume
-Громкость
+Громкость сиг.
 :COL
 Колл
 :COL Inv
@@ -103,6 +99,8 @@ AUX5
 Цикл
 :Calibrate
 Калибровка
+:Calibration done.\n \nPress ENT.
+Калибровка завершена.\n \nНажмите ENT.
 :Cancel
 Отмена
 :Celsius
@@ -219,8 +217,6 @@ F°
 Период
 :GEAR
 Шасси
-:GPS
-GPS
 :GPS Alt.
 GPS высота
 :GPS Coords
@@ -233,12 +229,8 @@ GPS время
 Основные настройки
 :Gyro sense
 Чувств.гиро
-:H
-H
 :H-trim
 Г-триммер
-:HOLD
-HOLD
 :Heli
 Вертолет
 :Heli/Standard GUI
@@ -263,8 +255,6 @@ HOLD
 Ввод
 :Inverted
 Реверс
-:L
-L
 :LCD settings
 Настройки экрана
 :LEFT_H
@@ -295,8 +285,6 @@ L
 Потери
 :Low-Rate
 Низк.расход
-:M
-M
 :Main menu
 Главное меню
 :Main page
@@ -317,10 +305,14 @@ M
 Мин/Макс
 :Minute
 Минуты
+:Missing Modules:\n
+Отсутств. модули:\n
 :Mixer
 Микшер
 :Mixer GUI
 Интерфейс
+:Mixer output
+Выход микшера
 :Mixers
 Микшер
 :Mode
@@ -343,6 +335,8 @@ M
 Кнопка
 :Move sticks and knobs\nto max & min positions\nthen press ENT
 Cместите стики и ручки\nв максимум и минимум,\nзатем нажмите ENT
+:Multirotor
+Мультиротор
 :Mux
 Мульт
 :Neg
@@ -353,6 +347,8 @@ Cместите стики и ручки\nв максимум и минимум,
 Нет
 :No Trim
 Без триммера
+:No range test possible.
+Тест дальности недоступен.
 :None
 Нет
 :Normal
@@ -375,12 +371,8 @@ Cместите стики и ручки\nв максимум и минимум,
 Шаг
 :PIT Mix
 Шаг Микш
-:PPM
-PPM
 :PPM In
 PPM-Вход
-:PPM%d
-PPM%d
 :PPMIn Cfg (Extend)
 PPM-Вход (расширенный)
 :Page
@@ -397,6 +389,8 @@ PPM-Вход (расширенный)
 +/-
 :Position %d
 Положение %d
+:Power reduced to
+Мощность снижена до
 :Prealert intvl
 Интерв. перед
 :Prealert time
@@ -407,6 +401,10 @@ ENT для изменения
 ENT для копирования в
 :Press ENT to load
 ENT для загрузки
+:Press ENT to start test.
+Нажмите ENT для запуска.
+:Press ENT to stop test.
+Нажмите ENT для остановки.
 :Press ENT to turn \nUSB drive
 Нажмите ENT для\nперевода USB диска\nв состояние
 :PwrDn alert
@@ -417,12 +415,12 @@ ENT для загрузки
 ПРАВЫЙ_Г
 :RIGHT_V
 ПРАВЫЙ_В
-:RPM
-RPM
 :RUD
 РНап
 :RUD DR
 РН.ДР
+:Range Test
+Тест дальности
 :Rate
 Частота
 :Re-Init
@@ -436,7 +434,7 @@ RPM
 :Reversed
 Реверс
 :Revert
-Отменить
+Отмена
 :Right
 Вправо
 :Safe Val
@@ -449,6 +447,8 @@ RPM
 Масшт.
 :Scale%s
 Масшт.%s
+:Scanner
+Сканер
 :Second
 Секунды
 :Select
@@ -593,8 +593,6 @@ RPM
 Мощность
 :TxPower
 Мощность
-:USB
-USB
 :Unknown
 Неизвестный
 :Up
@@ -619,12 +617,16 @@ USB
 \n%d секунд до конца
 :add
 добавить
+:beep
+сигнал
 :cntdn-prop
 обр.отсч.пр
 :countdown
 обр.отсчет
 :delay
 задержка
+:from
+от
 :is not supported
 не поддерживается
 :is turned off
@@ -645,3 +647,5 @@ USB
 секундомер
 :vTX MHz
 vTX МГц
+:voice
+голос

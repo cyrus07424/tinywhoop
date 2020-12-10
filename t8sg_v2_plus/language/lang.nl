@@ -25,26 +25,18 @@
 9 punten
 :ABSVAL
 absolute waarde
-:AIL
-AIL
 :AIL Inv
 AIL omg
-:AUX4
-AUX4
-:AUX5
-AUX5
 :Airplane
 Vliegtuig
+:Backlight
+Helderheid
 :Bind
 Koppelen
 :Binding %s...\nPress ENT to stop
 Bezig met koppelen\nDruk op ENT om te stoppen
-:COL
-COL
 :COL Inv
 COL omg
-:CYC
-CYC
 :Calibrate
 Kalibreren
 :Cancel
@@ -53,30 +45,16 @@ Annuleren
 Kan
 :Change
 Aanpassen
-:Complex
-Complex
 :Configure
 Configureren
 :Copy To...
 Kopieer...
-:Curve
-Curve
-:Cyclic1
-Cyclic1
-:Cyclic2
-Cyclic2
-:Cyclic3
-Cyclic3
-:DR
-DR
 :Default
 Standaard
 :Deviation FW version:
 Deviation FW Versie:
 :Down
 Omlaag
-:ELE
-ELE
 :ELE Inv
 ELE inv
 :EXPO %d
@@ -85,8 +63,6 @@ Expo %d
 Toepassen
 :Exit
 Stoppen
-:Expo&DR
-Expo&DR
 :Fail-safe
 Veilige modus
 :File
@@ -127,20 +103,10 @@ Laag
 Configuratie hoofdscherm
 :Mid-Rate
 Middel
-:Min/Max
-Min/Max
-:Mixer
-Mixer
-:Mixers
-Mixers
-:Mode %d
-Mode %d
 :Model name
 Modelnaam
 :Model type
 Modeltype
-:Mux
-Mux
 :Neg
 -
 :No Trim
@@ -151,10 +117,6 @@ Geen
 Normaal
 :Off
 Uit
-:Offset
-Offset
-:Ok
-Ok
 :On
 Aan
 :Page
@@ -169,14 +131,8 @@ Punt
 RECHTS_H
 :RIGHT_V
 RECHTS_V
-:RUD
-RUD
-:RUD DR
-RUD DR
 :Re-Init
 Herinitialiseren
-:Reset
-Reset
 :Reverse
 Keer om
 :Reversed
@@ -197,12 +153,8 @@ Eenvoudig
 Eenvoudig 4 kanalen
 :Src
 Bron
-:Start
-Start
 :Stick mode
 Stickmodus
-:Sticks
-Sticks
 :Subtrim
 Fijnafstelling
 :SwashType
@@ -215,54 +167,22 @@ Schakelaar1
 Schakelaar2
 :Symmetric
 Symmetrisch
-:THR
-THR
-:TRIMLH+
-TRIMLH+
-:TRIMLH-
-TRIMLH-
-:TRIMLV+
-TRIMLV+
-:TRIMLV-
-TRIMLV-
-:TRIMRH+
-TRIMRH+
-:TRIMRH-
-TRIMRH-
-:TRIMRV+
-TRIMRV+
-:TRIMRV-
-TRIMRV-
 :Template..
 Sjabloon...
-:Timer
-Timer
 :Touch to Lock
 Raak aan om vast te zetten
 :Touch to Unlock
 Raak aan om los te maken
-:Trim
-Trim
-:Trim +
-Trim +
-:Trim -
-Trim -
 :Trim Step
 Trimstap
-:Trims
-Trims
 :Tx power
 Zendvermogen
-:USB
-USB
 :Unknown
 Onbekend
 :Up
 Omhoog
 :Value
 Waarde
-:Virt
-Virt
 :Zero/Max
 Nul/Max
 :\n%d seconds left
