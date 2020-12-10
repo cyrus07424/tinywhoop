@@ -60,7 +60,7 @@
 				"throttleLimitPercent": 100
 			},
 			"AccTrim": [
-				0,
+				-2,
 				0
 			],
 			"ServoConfig": [
@@ -659,7 +659,7 @@
 				"throttleLimitPercent": 100
 			},
 			"AccTrim": [
-				0,
+				-2,
 				0
 			],
 			"ServoConfig": [
@@ -1258,7 +1258,7 @@
 				"throttleLimitPercent": 100
 			},
 			"AccTrim": [
-				0,
+				-2,
 				0
 			],
 			"ServoConfig": [
