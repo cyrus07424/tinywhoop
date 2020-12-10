@@ -1,0 +1,433 @@
+﻿Português BR
+: is %d%%,\nsafe value = %d%%
+ = %d%%, \nvalor seguro  = %d%%
+:# Channels
+# Canais
+:1-to-1
+1 a 1
+:11 Point
+11 Pontos
+:13 Point
+13 Pontos
+:3 Point
+3 Pontos
+:4Ch w/ Dual-Rates
+4Ch c/Dual-Rate
+:5 Point
+5 Pontos
+:5+1
+5+1
+:6+1
+6+1
+:6Ch Airplane
+Aeroplano 6Ch
+:6Ch Helicopter
+Helicóptero 6Ch
+:7 Point
+7 Pontos
+:9 Point
+9 Pontos
+:ABSVAL
+ABSVAL
+:AIL
+AIL
+:AIL Inv
+ALAB Inv
+:AIL Mix
+ALAB Mix
+:AUX4
+AUX4
+:AUX5
+AUX5
+:About Deviation
+Sobre o Deviation
+:Airplane
+Aeroplano
+:Altitude
+Altitude
+:Batt alarm
+Alarme bat
+:Battery too low,\ncan't save!
+Bateria baixa, não\nserá possivel gravar!
+:Bind
+Bind
+:Binding %s...\nPress ENT to stop
+Bindando %s\nTecle ENT p/parar
+:Buzz volume
+Volume buzzer
+:COL
+PASSO
+:COL Inv
+PASSO Inv
+:COL Limit
+PASSO limite	
+:COL Mix
+PASSO Mix
+:CYC
+Cíclico
+:Calibrate
+Calibrar
+:Cancel
+Cancelar
+:Celsius
+Celsius
+:Center PW
+Centralizar PW
+:Center all \nsticks and knobs\nthen press ENT
+Centralizar todos\nsticks e knobs\nsó então teclar ENT
+:Ch
+Ch
+:Chan mode
+Modo canal
+:Change
+Alterar
+:Channel monitor
+Monitor canais
+:Complex
+Complexo
+:Configure
+Configurar
+:Contrast
+Contraste
+:Copy To
+Copiar para
+:Copy To...
+Copiar...
+:Curve
+Curva
+:Cyclic1
+Ciclico1
+:Cyclic2
+Ciclico2
+:Cyclic3
+Ciclico3
+:DR
+DR
+:Deadband
+ZonaMorta
+:Default
+Default
+:Delta PW
+Delta PW
+:Deviation FW version:
+Versão FW Deviation:
+:Dimmer target
+Limite Dimmer
+:Dimmer time
+Tempo dimmer
+:Dn
+Aba
+:Down
+Desce
+:ELE
+ELE
+:ELE Inv
+ELE Inv
+:ELE Mix
+ELE Mix
+:EXPO %d
+Expo. %d
+:Enter
+Entrar
+:Exit
+Sair
+:Expo&DR
+Expo&DR
+:Fahren
+Fahren
+:Fail-safe
+Fail-safe
+:File
+Arquivo
+:Fixed
+Fixo
+:Fixed ID
+ID Fixo
+:Foot
+Pé
+:Frame Size
+Taman. frame
+:GEAR
+GEAR
+:GPS
+GPS
+:Generic settings
+Configs. gerais
+:Heli
+Heli
+:Helicopter
+Helicóptero
+:High-Rate
+Valor Max.
+:Icon
+Icone
+:Input
+Entrada
+:Inverted
+Invertido
+:LCD settings
+Config. LCD
+:LEFT_H
+ESQUERDA_H
+:LEFT_V
+ESQUERDA_V
+:Language
+Lingua
+:Latitude
+Latitude
+:Left
+Esquerda
+:Length
+Longitude
+:Linked
+Lincado
+:Load
+Ler...
+:Load...
+Ler...
+:Longitude
+Longitude
+:Low-Rate
+Taxa baixa
+:Main menu
+Menu principal
+:Main page
+Menu principal
+:Main page config
+Personaliza menu
+:Max Limit
+Límite max
+:Menu
+Menu
+:Meter
+Metro
+:Mid-Rate
+Valor Médio
+:Min Limit
+Limite Min
+:Min/Max
+Min/Max
+:Mixer
+Mixer
+:Mixers
+Mixers
+:Model menu
+Menu do modelo
+:Model name
+Nome modelo
+:Model setup
+Configura modelo
+:Model type
+Tipo modelo
+:Move sticks and knobs\nto max & min positions\nthen press ENT
+Mova sticks e knobs\npara as posições max e min\ne tecle ENT
+:Mux
+Mux
+:Neg
+Neg
+:New
+Novo
+:No Trim
+Sem Trim
+:None
+Nenhum
+:Normal
+Normal
+:Notch PW
+Notch PW
+:Off
+Desl
+:Offset
+Offset
+:Ok
+Ok
+:On
+Lig
+:Page
+Página
+:Plane
+Aeroplano
+:Point
+Ponto
+:Pos
+Pos
+:Pos/Neg
+Pos/Neg
+:Prealert intvl
+Interv. inicial
+:Prealert time
+Tempo inicial
+:Press ENT to change
+Tecle ENT para alterar
+:Press ENT to copy to
+Tecle ENT para copiar para
+:Press ENT to load
+Tecle ENT para ler
+:Press ENT to turn \nUSB drive
+Tecle ENT p/ativar USB
+:RIGHT_H
+DIREITA_H
+:RIGHT_V
+DIREITA_V
+:RPM
+RPM
+:RUD
+RUD
+:RUD DR
+RUD DR
+:Re-Init
+Reconecta
+:Reset
+Reset
+:Reverse
+Inverter
+:Reversed
+Invertido
+:Revert
+Reverter
+:Right
+Direita
+:Safe Val
+Valor Seguro
+:Safety
+Seguro
+:Save
+Save
+:Scale%s
+Escala%s
+:Simple
+Simples
+:Simple 4 Channel
+4Ch. Simples
+:Speed
+Velocidade
+:Src
+Origem
+:Start
+Inicio
+:Step
+Passo
+:Stick input
+Posição dos sticks
+:Stick mode
+Modo de voo
+:Sticks
+Sticks
+:Subtrim
+Subtrim
+:SwashType
+Tipo de Swash
+:Switch
+Chave
+:Switch1
+Chave1
+:Switch2
+Chave2
+:Symmetric
+Simétrico
+:THR
+THR
+:TRIMLH+
+TRIMSO+
+:TRIMLH-
+TRIMSO-
+:TRIMLV+
+TRIMSV+
+:TRIMLV-
+TRIMSV-
+:TRIMRH+
+TRIMDO+
+:TRIMRH-
+TRIMDO-
+:TRIMRV+
+TRIMDV+
+:TRIMRV-
+TRIMDV-
+:TelemRPM
+TelemRPM
+:TelemT
+TelemT
+:TelemV
+TelemV
+:Telemetry
+Telemetria
+:Telemetry config
+Conf. telemetria
+:Telemetry monitor
+Monitor telemetria
+:Telemetry settings
+Ajustes telemetria
+:Temp
+Temp
+:Temperature
+Temperatura
+:Template..
+Template..
+:Time
+Hora
+:Timer
+Timer
+:Timer settings
+Config. Timer
+:Timer%d
+Timer%d
+:Timers
+Temporizadores
+:Timeup intvl
+Duração
+:Touch to Lock
+Tocar para bloquear
+:Touch to Unlock
+Tocar para desbloquear
+:Transmitter config
+Config. do rádio
+:Transmitter menu
+Menu do rádio
+:Trim
+Trim
+:Trim +
+Trim +
+:Trim -
+Trim -
+:Trim Step
+Passo Trim
+:Trims
+Trims
+:Tx power
+Potência
+:USB
+USB
+:Unknown
+Desconhecido
+:Up
+Para Cima
+:Value
+Valor
+:Vibration
+Vibrar
+:Virt
+Virt
+:Volt
+Volt
+:Zero/Max
+Zero/Max
+:\n%d seconds left
+\n%d segs restantes
+:add
+adiciona
+:countdown
+regressivo
+:is not supported
+não é suportado
+:is turned off
+desligado
+:max
+max
+:min
+min
+:mult
+mult
+:replace
+substituir
+:stopwatch
+cronometro

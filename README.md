@@ -1,2 +1,2 @@
 # tinywhoop
-my tinywhoop settings
+My tinywhoop settings
